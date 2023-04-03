@@ -1,0 +1,6 @@
+C:\Users\Igor\OneDrive - Peter the Great St. Petersburg Polytechnical University\Рабочий стол\Release\final\bin\Debug\net7.0\publish\final.exe
+C:\Users\Igor\OneDrive - Peter the Great St. Petersburg Polytechnical University\Рабочий стол\Release\final\bin\Debug\net7.0\publish\final.dll
+C:\Users\Igor\OneDrive - Peter the Great St. Petersburg Polytechnical University\Рабочий стол\Release\final\bin\Debug\net7.0\publish\final.deps.json
+C:\Users\Igor\OneDrive - Peter the Great St. Petersburg Polytechnical University\Рабочий стол\Release\final\bin\Debug\net7.0\publish\final.runtimeconfig.json
+C:\Users\Igor\OneDrive - Peter the Great St. Petersburg Polytechnical University\Рабочий стол\Release\final\bin\Debug\net7.0\publish\final.pdb
+C:\Users\Igor\OneDrive - Peter the Great St. Petersburg Polytechnical University\Рабочий стол\Release\final\bin\Debug\net7.0\publish\Newtonsoft.Json.dll
