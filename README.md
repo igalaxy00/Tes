@@ -15,3 +15,10 @@ main_input.json
 output.json
 file_DE_out.txt
 ``` 
+
+#Альтернативно 
+все файлы из пути 
+``` 
+Tes/final/bin/Debug/net7.0/
+``` 
+скопировать в исходную папку Tes/final и запустить двойным нажатием final.exe
