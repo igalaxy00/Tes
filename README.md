@@ -16,7 +16,7 @@ output.json
 file_DE_out.txt
 ``` 
 
-#Альтернативно 
+# Альтернативно 
 все файлы из пути 
 ``` 
 Tes/final/bin/Debug/net7.0/
